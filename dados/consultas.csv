@@ -1,0 +1,2 @@
+id;paciente_id;dentista_id;procedimento_id;data_hora_inicio;status;motivo_cancelamento
+1;1;1;1;2026-11-23T11:00;AGENDADA;
